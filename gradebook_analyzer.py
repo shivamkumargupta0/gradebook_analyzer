@@ -1,6 +1,6 @@
 # -------------------------------------------------------------
 # Title: GradeBook Analyzer CLI
-# Author: [Your Name]
+# Author: [shivam kumar gupta]
 # Date: 29 Nov 2025
 # Purpose: Automates student grade analysis & statistics
 # -------------------------------------------------------------
@@ -157,3 +157,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
